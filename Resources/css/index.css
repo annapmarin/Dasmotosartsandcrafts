@@ -1,3 +1,6 @@
+* {
+    font-family: Helvetica;
+}
 header {
     font-family: Helvetica;
     font-size: 100px;
@@ -7,10 +10,40 @@ header {
     background-image: url("../Images/pattern.webp");
 }
 
-h1 {
+.brushes {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
     background-color: mediumspringgreen;
+}
+
+.frames {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.paint {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 16;
+}
+
+#bluemph {
+    font-weight: bold;
+    color: blue;
 }
